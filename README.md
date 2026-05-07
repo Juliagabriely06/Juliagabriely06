@@ -19,7 +19,7 @@ Me chamo Julia Gabriely, tenho 20 anos e sou natural de Alagoas. Atualmente, est
         <img 
             alt="linkedin" 
             title="conexões" 
-            src="https://custom-icon-badges.demolab.com/badge/CONEXÕES-16-bb86fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6200ee"
+            src="https://custom-icon-badges.demolab.com/badge/CONEXÕES-32-bb86fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6200ee"
         />
     </a> 
     <a href="https://github.com/juliagabriely06?tab=repositories&sort=stargazers">
