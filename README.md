@@ -8,7 +8,7 @@
         <img 
             alt="siga-me no instagram" 
             title="siga-me" 
-            src="https://img.shields.io/badge/SEGUIDORES-310-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0000"
+            src="https://img.shields.io/badge/SEGUIDORES-325-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0000"
         />
     </a>
     <a href="https://www.linkedin.com/in/júlia-gabrielly-0381933a6?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
