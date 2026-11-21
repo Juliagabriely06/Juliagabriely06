@@ -1,7 +1,7 @@
 ## Julia Gabriely👩🏻‍💻
 **`Desenvolvedora Front-end`**
 
- Eu sou a Julia Gabriely, tenho 20 anos e sou natural de Alagoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CESMAC. Sou apaixonado por tecnologia, aprendizado e soluções criativas.
+ Eu sou a Julia Gabriely, tenho 20 anos e sou natural de Alagoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CESMAC. Sou apaixonada por tecnologia, aprendizado e soluções criativas.
 
 <p align="left">
     <a href="https://www.instagram.com/juliaaagabriely?igsh=M3ZseGo2bzh5OGNy" target="_blank">
